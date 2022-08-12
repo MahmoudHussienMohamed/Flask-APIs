@@ -20,4 +20,4 @@ There're 3 naive APIs which are:
   - Now, you're ready to use the APIs!
 
 ## Google Drive
-All APIs require *mounting* **Google Drive** to store specific files. So, **colab** will ask you about allowing notebook which the API runs on to have access to your **Google Drive**; you should click allow and complete the process.  
+  All APIs require *mounting* **Google Drive** to store specific files. So, **colab** will ask you about allowing notebook which the API runs on to have access to your **Google Drive**; you should click allow and complete the process.  
