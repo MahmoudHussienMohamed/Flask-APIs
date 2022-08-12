@@ -12,8 +12,12 @@ There're 3 naive APIs which are:
   - [Arabic Disease Classifier](https://github.com/MahmoudHussienMohamed/Flask-APIs/tree/main/Flask-ngrok-APIs-Arabic-Disease-Classifier-API):
     - by using a simple arabic dataset which provide symptoms and its corresponding disease you can predict pathological case.
    
-  ## Flask-ngrok setup
+   
+## Flask-ngrok setup
   - First, sign up from *[Here](https://dashboard.ngrok.com/signup)*.
   - Then, go to [Your Authtoken](https://dashboard.ngrok.com/get-started/your-authtoken) and copy your own one.
   - Replace "\<***YourAuthToken***\>" with your own in any colab notebook you want to run.
   - Now, you're ready to use the APIs!
+
+## Google Drive
+All APIs require *mounting* **Google Drive** to store specific files. So, **colab** will ask you about allowing notebook which the API runs on to have access to your **Google Drive**; you should click allow and complete the process.  
