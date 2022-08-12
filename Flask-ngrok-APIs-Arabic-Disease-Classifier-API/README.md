@@ -8,14 +8,15 @@ you can provide better dataset for better result.
 - First, in your **[Google Drive/My Drive](https://drive.google.com/drive/my-drive)** create a folder with "Model-Files" as name.
 - Upload *[Dataset](https://github.com/MahmoudHussienMohamed/Flask-APIs/blob/main/Flask-ngrok-APIs-Arabic-Disease-Classifier-API/ds.xlsx)* to the recently created *Model-Files* folder.
 - If you don't have flask-ngrok account read [Flask-ngrok setup](https://github.com/MahmoudHussienMohamed/Flask-APIs#flask-ngrok-setup).
-- Replace "\<***YourAuthToken***\>" with your own in the *'AFR-API'* colab notebook.
+- Replace "\<***YourAuthToken***\>" with your own in the *'ADC-API'* colab notebook.
 - Run the notebook in GPU runtime (see *[this](https://github.com/MahmoudHussienMohamed/Flask-APIs#google-colab)* if not).
 - Notebook will ask you to mount Google Drive. (see *[this](https://github.com/MahmoudHussienMohamed/Flask-APIs#google-drive)* if not)
 Now your API is running!
 
 ## Requests
 The API has 1 main route which is:
-- **'/diagnose'** accepts `symptom` and return the coresponding predicted disease.
+- **'/diagnose'** accepts `sympots` and return the coresponding predicted disease. (***NOTE***: Supposed to be "symptoms")
+
 
 ## Test and run
 You can test the API with [Test.py](https://github.com/MahmoudHussienMohamed/Flask-APIs/blob/main/Flask-ngrok-APIs-Arabic-Disease-Classifier-API/Test.py).
