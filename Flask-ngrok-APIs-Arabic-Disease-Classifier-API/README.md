@@ -1,7 +1,7 @@
 # Arabic Disease Classifier 
 
 ## Description
-Naive and premitive **[NLP](https://www.ibm.com/cloud/learn/natural-language-processing)** API to predict disease of given symptom. Trianed on [ds.xlsx](https://github.com/MahmoudHussienMohamed/Flask-APIs/blob/main/Flask-ngrok-APIs-Arabic-Disease-Classifier-API/ds.xlsx).
+Naive and primitive **[NLP](https://www.ibm.com/cloud/learn/natural-language-processing)** API to predict disease of given symptom. Trianed on [ds.xlsx](https://github.com/MahmoudHussienMohamed/Flask-APIs/blob/main/Flask-ngrok-APIs-Arabic-Disease-Classifier-API/ds.xlsx).
 you can provide better dataset for better result.
 
 ## Setup
