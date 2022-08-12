@@ -22,7 +22,7 @@ The API has 2 main routeس which are:
 You can test the API with [Test.py](https://github.com/MahmoudHussienMohamed/Flask-APIs/blob/main/Flask-ngrok-APIs-VirtualFittingRoomAPI/Test.py).
 Update `url` variable with **2nd link** produced by **last cell** in the notebook then run it.
 For example, if we request '/apply' with two images: 
-![](/Input/person.jpg?raw=true "person image") ![](/Input/cloth.jpg?raw=true "clothing image")
+![](https://github.com/MahmoudHussienMohamed/Flask-APIs/blob/main/Flask-ngrok-APIs-VirtualFittingRoomAPI/Input/person.jpg) ![](https://github.com/MahmoudHussienMohamed/Flask-APIs/blob/main/Flask-ngrok-APIs-VirtualFittingRoomAPI/Input/cloth.jpg)
 the output will be:
 ![](https://github.com/MahmoudHussienMohamed/Flask-APIs/blob/main/Flask-ngrok-APIs-VirtualFittingRoomAPI/Output/person%20%2B%20cloth.png)
 
