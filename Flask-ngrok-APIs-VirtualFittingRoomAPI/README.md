@@ -24,6 +24,7 @@ Update `url` variable with **2nd link** produced by **last cell** in the noteboo
 For example, if we request '/apply' with two images: 
 ![](https://github.com/MahmoudHussienMohamed/Flask-APIs/blob/main/Flask-ngrok-APIs-VirtualFittingRoomAPI/Input/person.jpg) ![](https://github.com/MahmoudHussienMohamed/Flask-APIs/blob/main/Flask-ngrok-APIs-VirtualFittingRoomAPI/Input/cloth.jpg)
 the output will be:
+
 ![](https://github.com/MahmoudHussienMohamed/Flask-APIs/blob/main/Flask-ngrok-APIs-VirtualFittingRoomAPI/Output/person%20%2B%20cloth.png)
 
 
