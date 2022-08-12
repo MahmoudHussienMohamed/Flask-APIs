@@ -12,7 +12,7 @@ There're 3 naive APIs which are:
   - [Arabic Disease Classifier](https://github.com/MahmoudHussienMohamed/Flask-APIs/tree/main/Flask-ngrok-APIs-Arabic-Disease-Classifier-API):
     - by using a simple arabic dataset which provide symptoms and its corresponding disease you can predict pathological case.
    
-## Note:
+## Google Colab:
 You should run the notebooks with **GPU** In Colab from "Runtime/Change runtime type" and choose GPU from "Hardware accelerator".
 
    
