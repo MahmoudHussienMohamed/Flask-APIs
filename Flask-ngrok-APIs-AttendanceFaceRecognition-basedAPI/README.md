@@ -25,35 +25,6 @@ The API has 8 main routes to call and request which are:
 ## Test and run
 You can test the API with [Test.py](https://github.com/MahmoudHussienMohamed/Flask-APIs/blob/main/Flask-ngrok-APIs-AttendanceFaceRecognition-basedAPI/Test.py).
 Update `url` variable with **2nd link** produced by **last cell** in the notebook then run it.
-You should be able to see:
-`{"sucess":"found-face-of-one-person"}
-
-{"sucess":"found-face-of-one-person"}
-
-{"sucess":"found-face-of-one-person"}
-
-{"results":["12345"]}
-
-{"results":"not-found"}
-
-{"success":"done-file-saved"}
-
-{"success":"done-file-loaded"}
-
-{"sucess":"session_created"}
-
-{"sucess":"session_created"}
-
-{"success":"attendance-recorded-for-12345"}
-
-{"success":"attendance-recorded-for-12346"}
-
-{"success":["Mahmoud Hussien Mohamed,12345,mahmoudhussienmohamed.mhm@gmail.com","Albert Einstein,12346,Albert_Einstein@gmail.com"]}
-
-{"error":"no-course-or-no-session-was-created-before"}
-
-{"success":"file-AI-123-3-deleted"}
-
-{"error":"file-not-found"}`
+You should be able to see output like *[this](https://github.com/MahmoudHussienMohamed/Flask-APIs/blob/main/Flask-ngrok-APIs-AttendanceFaceRecognition-basedAPI/output.txt)*.
 
 
